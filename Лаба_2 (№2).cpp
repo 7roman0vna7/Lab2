@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-int fibonachi(int x) {
+int fibonachi(int x) {             //функция для нахождения Фибоначи
 	if (x == 0)
 		return x;
 	if (x == 1)
